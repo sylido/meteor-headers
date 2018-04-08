@@ -1,3 +1,0 @@
-[submodule "website/packages/inject-initial"]
-	path = website/packages/inject-initial
-	url = git@github.com:gadicc/meteor-inject-initial.git
